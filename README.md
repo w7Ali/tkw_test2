@@ -20,7 +20,7 @@ These instructions will help you set up and run the Test2 project on your local 
    ```bash
    git clone git@github.com:w7Ali/tkw_test2.git
    cd test2
-   virtual .venv
+   virtualenv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
    python manage.py runserver
