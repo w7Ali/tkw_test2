@@ -26,3 +26,4 @@ These instructions will help you set up and run the Test2 project on your local 
 ### URL
    ```bash
       http://127.0.0.1:8000/testing/home/
+!['Test2 OutPut'](https://github.com/w7Ali/tkw_test2/blob/main/test2.png)
